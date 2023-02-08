@@ -1,3 +1,7 @@
+# Se mitt försök här:
+https://oliver-andersson19.github.io/frontend-mentor-qr-code-component/
+
+
 # Frontend Mentor - QR code component
 
 ![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)
