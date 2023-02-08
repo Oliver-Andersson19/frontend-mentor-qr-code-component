@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    min-height: 100vh;
+
+    background-color: #d3dfed;
+}
+
+main {
+    width: 22em;
+    padding: 1.2em;
+
+    border-radius: 22px;
+
+    background-color: white;
+    
+    text-align: center;
+}
+
+main img {
+    width: 100%;
+    margin-bottom: 1.5em;
+    border-radius: 22px;
+}
+
+main h1 {
+    font-size: 1.6em;
+    margin-bottom: 1em;
+}
+main p {
+    margin-bottom: 2em;
+    color: #9a9da3;
+}
+
